@@ -1,0 +1,20 @@
+{
+    "title": "Scenario with Terminal iFrame UI",
+    "description": "Katacoda Scenario Example",
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Scenario with Terminal iFrame UI",
+                "text": "step1/text.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+    }
+}
